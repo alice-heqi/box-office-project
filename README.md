@@ -47,6 +47,7 @@ Example:
 Example:
 
 ![image](https://github.com/alice-heqi/box-office-project/blob/master/images/co-tlt.png)
+![image](https://github.com/alice-heqi/box-office-project/blob/master/images/gen-tlt.png)
 
 ### 4. Lasso
 
