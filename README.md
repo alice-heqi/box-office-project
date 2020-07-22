@@ -51,11 +51,11 @@ Example:
 
 ### 4. Lasso
 
-- Ten Features are included in the final dataset for Lasso modeling: 
+- Ten Features are included in the final dataset before "get_dummys": 
 
 ['release_month', 'Year', 'Company', 'Duration_min', 'genre0', 'In_release_days', 'Widest_release_theaters', 'Intenational_market(yes/no)', 'Domestic_market(yes/no)', 'release_day_of_week']
 
-- Three variables are selected by Lasso. 
+- After converting categorical features to dummy variables, there are 404 variables in total and three are selected by Lasso. 
 
 `from sklearn.feature_selection import SelectFromModel`
 
