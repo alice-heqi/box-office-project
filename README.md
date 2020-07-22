@@ -20,7 +20,9 @@ This project uses beautifulsoup and mysql-connector.
 
 The original data only focus on “Yearly gross” for “Domestic” movie from 2015 to 2019, as the goal of this project is finding the variables that impact the overall revenue achievement of each movie rather than inspecting the daily or weekly revenue trend.
 
-The “data extraction” notebook include the function I wrote to complete this task.
+The “data extraction” notebook include the function I wrote to complete this task. [notebook](https://github.com/alice-heqi/box-office-project/blob/master/Data%20extraction%20.ipynb)
+
+
 
 ### 2. ETL
 
