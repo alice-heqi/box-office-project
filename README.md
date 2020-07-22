@@ -24,8 +24,9 @@ The “data extraction” notebook include the function I wrote to complete this
 
 ### 2. ETL
 
-Upload the cleaned web scraped data to AWS Mysql database for storage.
-Extract joint data back for EDA and modeling
+- Scraping data from box office web pages
+- Clean and organize data in paticular sequence
+- Save data to AWS MySql server
 
 ### 3. Data visualization
 
