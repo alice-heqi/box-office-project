@@ -61,7 +61,7 @@ Example:
 
 `selected_feat` -> Index(['Duration_min', 'In_release_days', 'Widest_release_theaters'], dtype='object')'
 
-### 5. Conclusion 
+### 5. Further examination about the three variables selected by Lasso 
 
 - Further checking the three selected variables, the results indicate that “in_release_days” and “Duriation_min” correlated to “genre”. The most popular genres’ mean value of these two variables also have the highest frequency in their distribution. That is, the effect of  “In_release_days” and “Duration_min” represent the effect of “genre”. 
 
